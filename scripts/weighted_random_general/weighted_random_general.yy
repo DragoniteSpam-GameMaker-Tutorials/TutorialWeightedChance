@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"weighted_random_general",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"weighted_random_general",
+  "parent":{
+    "name":"TutorialWeightedChance",
+    "path":"TutorialWeightedChance.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
